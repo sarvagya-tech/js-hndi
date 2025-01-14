@@ -1,4 +1,4 @@
-function sayMyName(){
+    function sayMyName(){
     console.log("H");
     console.log("I");
     console.log("T");
